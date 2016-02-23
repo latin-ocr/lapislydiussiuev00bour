@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./lapislydiussiuev00bour_0267.png"; bbox 0 0 2207 2954; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 493 51 1620 130">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 493 51 1620 130">
+     <span class='ocr_line' id='line_1_1' title="bbox 493 51 1620 130; baseline 0.006 -35"><span class='ocrx_word' id='word_1_1' title='bbox 493 51 766 98; x_wconf 78' lang='lat' dir='ltr'>ACCVS.</span> <span class='ocrx_word' id='word_1_2' title='bbox 819 52 1080 98; x_wconf 80' lang='lat' dir='ltr'>CAPVT</span> <span class='ocrx_word' id='word_1_3' title='bbox 1142 57 1196 98; x_wconf 80' lang='lat' dir='ltr'><em>L.</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1519 60 1620 130; x_wconf 70' lang='lat'><em>237</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 203 227 1428 380">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 203 196 1428 380">
+     <span class='ocr_line' id='line_1_2' title="bbox 203 227 1428 380; baseline 0.003 -33"><span class='ocrx_word' id='word_1_5' title='bbox 203 227 1428 380; x_wconf 29' lang='lat' dir='ltr'>‚VANITAS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 574 415 1124 541">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 574 415 1124 541">
+     <span class='ocr_line' id='line_1_3' title="bbox 574 415 1124 541; baseline -0.004 -33"><span class='ocrx_word' id='word_1_6' title='bbox 574 415 743 508; x_wconf 70' lang='lat' dir='ltr'><em>Vim</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 758 421 1124 541; x_wconf 60' lang='lat' dir='ltr'><em>longaeva.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 52 650 1682 1890">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 52 650 1682 1890">
+     <span class='ocr_line' id='line_1_4' title="bbox 52 650 1682 1890; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 52 650 1682 1890; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 280 2049 1399 2366">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 192 2017 1399 2366">
+     <span class='ocr_line' id='line_1_5' title="bbox 280 2049 1399 2174; baseline -0.003 0.708"><span class='ocrx_word' id='word_1_9' title='bbox 280 2049 1399 2174; x_wconf 65' lang='lat' dir='ltr'>VERlTAs</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 385 2248 1329 2366; baseline -0.007 -29"><span class='ocrx_word' id='word_1_10' title='bbox 385 2248 1329 2366; x_wconf 56' lang='lat' dir='ltr'><em>Pejorfhrmnafhperstitzk.</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 850 2577 1639 2705">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 850 2577 1639 2705">
+     <span class='ocr_line' id='line_1_7' title="bbox 850 2577 1639 2705; baseline -0.005 -29"><span class='ocrx_word' id='word_1_11' title='bbox 850 2577 1042 2705; x_wconf 78' lang='lat' dir='ltr'><em>Gg3</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 1498 2614 1639 2678; x_wconf 66' lang='lat' dir='ltr'><em>vss,</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_7' title="bbox 0 874 45 2954">
+    <p class='ocr_par' dir='ltr' id='par_1_7' title="bbox 0 874 45 2954">
+     <span class='ocr_line' id='line_1_8' title="bbox 0 874 45 2954; baseline 0 0"><span class='ocrx_word' id='word_1_13' title='bbox 0 874 45 2954; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
